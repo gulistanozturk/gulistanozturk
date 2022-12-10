@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gulistanozturk
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently learning Flutter and Dart
